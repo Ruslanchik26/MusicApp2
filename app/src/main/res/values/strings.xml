@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">MusicalApp</string>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_login2">Sign up</string>
+    <string name="title_activity_base">BaseActivity</string>
+
+    <string name="file_name_device_info" translatable="false">deviceInf.txt</string>
+    <string name="file_name_device_log" translatable="false">deviceLog.txt</string>
+    <string name="feedback_mail_subject">feedback about %1$s</string>
+    <string name="cancel">Cancel</string>
+    <string name="Ok">OK</string>
+    <string name="your_input">Write your feedback</string>
+    <string name="send_feedback">Send</string>
+    <string name="from" translatable="false">From:</string>
+    <string name="please_write">Please write something.</string>
+    <string name="send_feedback_two">Send Feedback</string>
+    <string name="feedback">Feedback</string>
+    <string name="select_image">+ Add Screenshot</string>
+    <string name="click_again">Click again to change the image</string>
+    <string name="select_picture_title">Select Picture</string>
+    <string name="ok">OK</string>
+    <string name="system_info">System Info</string>
+    <string name="info_fedback_legal_start">"Your "</string>
+    <string name="info_fedback_legal_system_info">"system info "</string>
+    <string name="info_fedback_legal_and">"and "</string>
+    <string name="info_fedback_legal_log_data">"log data "</string>
+    <string name="info_fedback_legal_will_be_sent">will be sent to %s</string>
+    <string name="space">" "</string>
+</resources>

@@ -1,0 +1,7 @@
+#Tue May 23 03:32:51 EEST 2017
+base.0=C\:\\Users\\Kiba\\AndroidStudioProjects\\MusicApp2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3a616694eeadeec46c8335ef584175133cf2742d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Kiba\\AndroidStudioProjects\\MusicApp2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0755b29fd204886edbf3e4eea427bf30b8a6bdc3\\classes.dex
+base.1=C\:\\Users\\Kiba\\AndroidStudioProjects\\MusicApp2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0755b29fd204886edbf3e4eea427bf30b8a6bdc3
+file.0=C\:\\Users\\Kiba\\AndroidStudioProjects\\MusicApp2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3a616694eeadeec46c8335ef584175133cf2742d\\classes.dex

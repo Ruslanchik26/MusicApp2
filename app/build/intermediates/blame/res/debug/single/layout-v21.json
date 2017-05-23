@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Ruslan\\AndroidStudioProjects\\MusicApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Ruslan\\.android\\build-cache\\d2d1fcf38785d8d00c4acfd4c9d7523b2d94136c\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\AndroidStudioProjects\\MusicApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Ruslan\\.android\\build-cache\\d2d1fcf38785d8d00c4acfd4c9d7523b2d94136c\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kiba\\AndroidStudioProjects\\MusicApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Kiba\\.android\\build-cache\\992cb145b7c884825b7caed2c77b7486860a0221\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kiba\\AndroidStudioProjects\\MusicApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Kiba\\.android\\build-cache\\992cb145b7c884825b7caed2c77b7486860a0221\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\AndroidStudioProjects\\MusicApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Ruslan\\.android\\build-cache\\d2d1fcf38785d8d00c4acfd4c9d7523b2d94136c\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kiba\\AndroidStudioProjects\\MusicApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Kiba\\.android\\build-cache\\992cb145b7c884825b7caed2c77b7486860a0221\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\AndroidStudioProjects\\MusicApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Ruslan\\.android\\build-cache\\d2d1fcf38785d8d00c4acfd4c9d7523b2d94136c\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kiba\\AndroidStudioProjects\\MusicApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Kiba\\.android\\build-cache\\992cb145b7c884825b7caed2c77b7486860a0221\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]

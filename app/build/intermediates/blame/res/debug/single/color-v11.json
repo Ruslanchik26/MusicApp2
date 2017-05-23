@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Ruslan\\AndroidStudioProjects\\MusicApp2\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Ruslan\\.android\\build-cache\\d2d1fcf38785d8d00c4acfd4c9d7523b2d94136c\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\AndroidStudioProjects\\MusicApp2\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Ruslan\\.android\\build-cache\\d2d1fcf38785d8d00c4acfd4c9d7523b2d94136c\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kiba\\AndroidStudioProjects\\MusicApp2\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Kiba\\.android\\build-cache\\992cb145b7c884825b7caed2c77b7486860a0221\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kiba\\AndroidStudioProjects\\MusicApp2\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Kiba\\.android\\build-cache\\992cb145b7c884825b7caed2c77b7486860a0221\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

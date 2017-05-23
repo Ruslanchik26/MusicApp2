@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Ruslan\\AndroidStudioProjects\\MusicApp2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\song3.mp3",
+        "source": "C:\\Users\\Ruslan\\AndroidStudioProjects\\MusicApp2\\app\\src\\main\\res\\raw\\song3.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\AndroidStudioProjects\\MusicApp2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\song1.mp3",
+        "source": "C:\\Users\\Ruslan\\AndroidStudioProjects\\MusicApp2\\app\\src\\main\\res\\raw\\song1.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Ruslan\\AndroidStudioProjects\\MusicApp2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\song2.mp3",
+        "source": "C:\\Users\\Ruslan\\AndroidStudioProjects\\MusicApp2\\app\\src\\main\\res\\raw\\song2.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Kiba\\AndroidStudioProjects\\MusicApp2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\song2.mp3",
+        "source": "C:\\Users\\Kiba\\AndroidStudioProjects\\MusicApp2\\app\\src\\main\\res\\raw\\song2.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Kiba\\AndroidStudioProjects\\MusicApp2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\song1.mp3",
+        "source": "C:\\Users\\Kiba\\AndroidStudioProjects\\MusicApp2\\app\\src\\main\\res\\raw\\song1.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Kiba\\AndroidStudioProjects\\MusicApp2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\song3.mp3",
+        "source": "C:\\Users\\Kiba\\AndroidStudioProjects\\MusicApp2\\app\\src\\main\\res\\raw\\song3.mp3"
+    }
+]
